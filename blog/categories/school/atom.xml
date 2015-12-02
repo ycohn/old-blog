@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: School | WIP]]></title>
+  <link href="http://ycohn.github.io/blog/categories/school/atom.xml" rel="self"/>
+  <link href="http://ycohn.github.io/"/>
+  <updated>2015-12-02T17:12:27-05:00</updated>
+  <id>http://ycohn.github.io/</id>
+  <author>
+    <name><![CDATA[Yehuda Cohn]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <link href="http://ycohn.github.io/blog/2015/12/02/my-first-post-on-octopress/"/>
+    <updated>2015-12-02T17:06:18-05:00</updated>
+    <id>http://ycohn.github.io/blog/2015/12/02/my-first-post-on-octopress</id>
+    <content type="html"><![CDATA[<p>Hello World! This is a test.</p>
+]]></content>
+  </entry>
+  
+</feed>
